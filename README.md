@@ -17,10 +17,6 @@ Personal Chrome extensions — each lives in its own repo.
 3. Click **Load unpacked** and select the extension folder
 4. For **Quick Notes**: run `npm install && npm run build` first, then load the `dist/` folder
 
-## Local development
-
-All extensions are developed locally under `~/Dev/Chrome Extensions/`. Each folder is an independent git repo with its own history.
-
 ## License
 
 MIT (per extension repo)
